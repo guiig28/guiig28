@@ -1,6 +1,6 @@
 ## Olá, me chamo Guilherme Cardoso ✌️
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiig28/) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiig28&theme=tokyonight)
 
